@@ -1,4 +1,4 @@
-# fingfuck
+# Fingfuck
 Howto robarle el wifi al vecino y derivados
 
 Dedicado a los tecnicos de Telefonica y asesores de seguridad informatica,
