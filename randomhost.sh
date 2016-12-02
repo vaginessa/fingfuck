@@ -18,3 +18,5 @@ sed -i 's/HOST/'android-$MAC'/g' /etc/hosts
 
 # Create a new hostname file
 echo "android-$MAC" > /etc/hostname
+
+hostname "android-$MAC"
