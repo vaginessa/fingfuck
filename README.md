@@ -1,3 +1,10 @@
+#Fingfuck
+
+How To steal the wifi of your neighbour and derivatives...
+
+Dedicated to the technicians of Telefonica and advisers of computer security that leave the WPS activated and by default, in the routers that install.
+
+
 # Fingfuck
 Howto robarle el wifi al vecino y derivados
 
